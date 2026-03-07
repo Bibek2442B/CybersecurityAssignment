@@ -86,43 +86,43 @@
                 },
                 {
                     "id": "Q10",
-                    "answer": ""
+                    "answer": "-r"
                 },
                 {
                     "id": "Q11",
-                    "answer": ""
+                    "answer": "mv cat dog"
                 },
                 {
                     "id": "Q12",
-                    "answer": ""
+                    "answer": "mkdir"
                 },
                 {
                     "id": "Q13",
-                    "answer": ""
+                    "answer": "rm myfile"
                 },
                 {
                     "id": "Q14",
-                    "answer": ""
+                    "answer": "-name"
                 },
                 {
                     "id": "Q15",
-                    "answer": ""
+                    "answer": "help"
                 },
                 {
                     "id": "Q16",
-                    "answer": ""
+                    "answer": "man"
                 },
                 {
                     "id": "Q17",
-                    "answer": ""
+                    "answer": "whatis"
                 },
                 {
                     "id": "Q18",
-                    "answer": ""
+                    "answer": "alias"
                 },
                 {
                     "id": "Q19",
-                    "answer": ""
+                    "answer": "exit"
                 }
             ]
         },
@@ -131,67 +131,67 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": ">>"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "<"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "2>"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "|"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "env"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "cut -c 1"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "-s"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "-n"
                 },
                 {
                     "id": "Q9",
-                    "answer": ""
+                    "answer": "-f"
                 },
                 {
                     "id": "Q10",
-                    "answer": ""
+                    "answer": "expand"
                 },
                 {
                     "id": "Q11",
-                    "answer": ""
+                    "answer": "join cat dog cow"
                 },
                 {
                     "id": "Q12",
-                    "answer": ""
+                    "answer": "-r"
                 },
                 {
                     "id": "Q13",
-                    "answer": ""
+                    "answer": "tr"
                 },
                 {
                     "id": "Q14",
-                    "answer": ""
+                    "answer": "uniq"
                 },
                 {
                     "id": "Q15",
-                    "answer": ""
+                    "answer": "wc -w"
                 },
                 {
                     "id": "Q16",
-                    "answer": ""
+                    "answer": "grep"
                 }
             ]
         },
