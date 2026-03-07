@@ -200,47 +200,47 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "."
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "Vi"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "/"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "j"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "i"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "dd"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": ":q"
                 },
                 {
                     "id": "Q10",
-                    "answer": ""
+                    "answer": "C-x C-f"
                 },
                 {
                     "id": "Q11",
-                    "answer": ""
+                    "answer": "C-x k"
                 },
                 {
                     "id": "Q12",
-                    "answer": ""
+                    "answer": "M->"
                 },
                 {
                     "id": "Q13",
-                    "answer": ""
+                    "answer": "C-h C-h"
                 }
             ]
         },
