@@ -274,35 +274,35 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "x"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "4"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "chown"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "umask"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "4"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "2"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "effective"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "t"
                 }
             ]
         },
@@ -311,47 +311,47 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "u"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "?"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "kernel"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "fork"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "0"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "SIGKILL"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "SIGTERM"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "lower"
                 },
                 {
                     "id": "Q9",
-                    "answer": ""
+                    "answer": "D"
                 },
                 {
                     "id": "Q10",
-                    "answer": ""
+                    "answer": "/proc"
                 },
                 {
                     "id": "Q11",
-                    "answer": ""
+                    "answer": "jobs"
                 }
             ]
         },
@@ -360,31 +360,31 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "deb"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "/etc/apt/sources.list"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "c"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "Libraries"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "dpkg"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "apt show"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "checkinstall"
                 }
             ]
         }
@@ -395,31 +395,31 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "/dev"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "c"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "/dev/sdb1"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "/sys"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "udev"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "lsusb"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "bs"
                 }
             ]
         },
@@ -428,51 +428,51 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "/var"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "ext4"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "extended"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "mkpart"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "mkfs"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "mount"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "/etc/fstab"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "swapon"
                 },
                 {
                     "id": "Q9",
-                    "answer": ""
+                    "answer": "df"
                 },
                 {
                     "id": "Q10",
-                    "answer": ""
+                    "answer": "fsck"
                 },
                 {
                     "id": "Q11",
-                    "answer": ""
+                    "answer": "df -i"
                 },
                 {
                     "id": "Q12",
-                    "answer": ""
+                    "answer": "ln -s"
                 }
             ]
         },
@@ -481,23 +481,23 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "init"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "bootloader"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "quiet"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "initramfs"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "systemd"
                 }
             ]
         },
@@ -506,27 +506,27 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "kernel"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "0"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "system call"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "uname -r"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "vmlinuz"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "modprobe -r"
                 }
             ]
         },
@@ -535,31 +535,31 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "0"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "sudo service peanut stop"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "systemd"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "sudo initctl restart peanuts"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "target"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "sudo systemctl start peanut.service"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "sudo shutdown -h +4"
                 }
             ]
         },
@@ -568,35 +568,35 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "uptime"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "lsof"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "True"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "uptime"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "iostat"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "vmstat"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "sar"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "crontab -e"
                 }
             ]
         },
@@ -605,27 +605,27 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "rsyslogd"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "logger"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "syslog"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "dmesg"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "auth.log"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "logrotate"
                 }
             ]
         }
@@ -636,23 +636,23 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "scp"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "rsync"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "http.server"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "automount"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "CIFS"
                 }
             ]
         },
@@ -661,39 +661,39 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "LAN"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "OSI"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "Application"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "4"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "Application"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "TCP"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "subnets"
                 },
                 {
                     "id": "Q8",
-                    "answer": ""
+                    "answer": "ARP"
                 },
                 {
                     "id": "Q9",
-                    "answer": ""
+                    "answer": "DISCOVER, OFFER, REQUEST, ACK"
                 }
             ]
         },
@@ -702,31 +702,31 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "4"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "True"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "11111111"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "01111011"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "32"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "NAT"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "IPv6"
                 }
             ]
         },
@@ -735,31 +735,31 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "Hops"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "Gateway"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "ARP"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "Convergence"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "False"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "OSPF"
                 },
                 {
                     "id": "Q7",
-                    "answer": ""
+                    "answer": "BGP"
                 }
             ]
         },
@@ -768,23 +768,23 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "ifconfig"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "del"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "dhclient"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "nm-tool"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "arp"
                 }
             ]
         },
@@ -793,23 +793,23 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "8"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "ms"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "TTL"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "443"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "-i"
                 }
             ]
         },
@@ -818,27 +818,27 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "False"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "MX"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "TLD"
                 },
                 {
                     "id": "Q4",
-                    "answer": ""
+                    "answer": "/etc/hosts"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "BIND"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "dig"
                 }
             ]
         }
