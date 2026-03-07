@@ -249,23 +249,23 @@
             "questions": [
                 {
                     "id": "Q1",
-                    "answer": ""
+                    "answer": "sudo"
                 },
                 {
                     "id": "Q2",
-                    "answer": ""
+                    "answer": "/etc/sudoers"
                 },
                 {
                     "id": "Q3",
-                    "answer": ""
+                    "answer": "*"
                 },
                 {
                     "id": "Q5",
-                    "answer": ""
+                    "answer": "0"
                 },
                 {
                     "id": "Q6",
-                    "answer": ""
+                    "answer": "passwd"
                 }
             ]
         },
