@@ -1,0 +1,846 @@
+{
+    "Grasshopper": [
+        {
+            "section": "Getting Started",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": "Linus Torvalds"
+                },
+                {
+                    "id": "Q2",
+                    "answer": "Linux Kernel"
+                },
+                {
+                    "id": "Q3",
+                    "answer": "Rolling"
+                },
+                {
+                    "id": "Q4",
+                    "answer": "RPM"
+                },
+                {
+                    "id": "Q5",
+                    "answer": "Debian"
+                },
+                {
+                    "id": "Q6",
+                    "answer": "Fedora"
+                },
+                {
+                    "id": "Q7",
+                    "answer": "Ubuntu"
+                },
+                {
+                    "id": "Q8",
+                    "answer": "Portage"
+                },
+                {
+                    "id": "Q9",
+                    "answer": "Pacman"
+                },
+                {
+                    "id": "Q10",
+                    "answer": "YaST"
+                }
+            ]
+        },
+        {
+            "section": "Command Line",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": "Hello World"
+                },
+                {
+                    "id": "Q2",
+                    "answer": "pwd"
+                },
+                {
+                    "id": "Q3",
+                    "answer": "cd .."
+                },
+                {
+                    "id": "Q4",
+                    "answer": "ls -a"
+                },
+                {
+                    "id": "Q5",
+                    "answer": "touch myfile"
+                },
+                {
+                    "id": "Q6",
+                    "answer": "file"
+                },
+                {
+                    "id": "Q7",
+                    "answer": "cat"
+                },
+                {
+                    "id": "Q8",
+                    "answer": "q"
+                },
+                {
+                    "id": "Q9",
+                    "answer": "clear"
+                },
+                {
+                    "id": "Q10",
+                    "answer": ""
+                },
+                {
+                    "id": "Q11",
+                    "answer": ""
+                },
+                {
+                    "id": "Q12",
+                    "answer": ""
+                },
+                {
+                    "id": "Q13",
+                    "answer": ""
+                },
+                {
+                    "id": "Q14",
+                    "answer": ""
+                },
+                {
+                    "id": "Q15",
+                    "answer": ""
+                },
+                {
+                    "id": "Q16",
+                    "answer": ""
+                },
+                {
+                    "id": "Q17",
+                    "answer": ""
+                },
+                {
+                    "id": "Q18",
+                    "answer": ""
+                },
+                {
+                    "id": "Q19",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Text-Fu",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                },
+                {
+                    "id": "Q9",
+                    "answer": ""
+                },
+                {
+                    "id": "Q10",
+                    "answer": ""
+                },
+                {
+                    "id": "Q11",
+                    "answer": ""
+                },
+                {
+                    "id": "Q12",
+                    "answer": ""
+                },
+                {
+                    "id": "Q13",
+                    "answer": ""
+                },
+                {
+                    "id": "Q14",
+                    "answer": ""
+                },
+                {
+                    "id": "Q15",
+                    "answer": ""
+                },
+                {
+                    "id": "Q16",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Advanced Text-Fu",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                },
+                {
+                    "id": "Q10",
+                    "answer": ""
+                },
+                {
+                    "id": "Q11",
+                    "answer": ""
+                },
+                {
+                    "id": "Q12",
+                    "answer": ""
+                },
+                {
+                    "id": "Q13",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "User management",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Permissions",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Processes",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                },
+                {
+                    "id": "Q9",
+                    "answer": ""
+                },
+                {
+                    "id": "Q10",
+                    "answer": ""
+                },
+                {
+                    "id": "Q11",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Packages",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                }
+            ]
+        }
+    ],
+    "Journeyman": [
+        {
+            "section": "Devices",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "The Filesystem",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                },
+                {
+                    "id": "Q9",
+                    "answer": ""
+                },
+                {
+                    "id": "Q10",
+                    "answer": ""
+                },
+                {
+                    "id": "Q11",
+                    "answer": ""
+                },
+                {
+                    "id": "Q12",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Boot the System",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Kernel",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Init",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Process Utilization",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Logging",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                }
+            ]
+        }
+    ],
+    "Networking Nomad": [
+        {
+            "section": "Network Sharing",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Network Basics",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                },
+                {
+                    "id": "Q8",
+                    "answer": ""
+                },
+                {
+                    "id": "Q9",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Subnetting",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Routing",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                },
+                {
+                    "id": "Q7",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Network Config",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "Troubleshooting",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                }
+            ]
+        },
+        {
+            "section": "DNS",
+            "questions": [
+                {
+                    "id": "Q1",
+                    "answer": ""
+                },
+                {
+                    "id": "Q2",
+                    "answer": ""
+                },
+                {
+                    "id": "Q3",
+                    "answer": ""
+                },
+                {
+                    "id": "Q4",
+                    "answer": ""
+                },
+                {
+                    "id": "Q5",
+                    "answer": ""
+                },
+                {
+                    "id": "Q6",
+                    "answer": ""
+                }
+            ]
+        }
+    ]
+}
