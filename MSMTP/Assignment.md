@@ -1,3 +1,4 @@
+Help me do this HTTPS Task. I have cloned the base debian server. I also have the Ubuntu workstation
 # MSMTP & Logwatch Task
 
 ### Pre-tasks steps
