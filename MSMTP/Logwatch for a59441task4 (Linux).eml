@@ -1,0 +1,488 @@
+Return-Path: <bibekgnawali888@gmail.com>
+Received: from localhost ([161.230.103.46])
+        by smtp.gmail.com with UTF8SMTPSA id ffacd0b85a97d-4504f4857ffsm13578004f8f.0.2026.05.06.10.34.48
+        for <bibekgnawali888@gmail.com>
+        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);
+        Wed, 06 May 2026 10:34:48 -0700 (PDT)
+From: bibekgnawali888@gmail.com
+X-Google-Original-From: root
+Date: Wed, 06 May 2026 18:34:46 +0100
+Message-ID: <028a4745051cfe44497a5ca554aa4f9a@gmail.com>
+To: bibekgnawali888@gmail.com 
+Subject: Logwatch for a59441task4 (Linux)
+Auto-Submitted: auto-generated
+Precedence: bulk
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="UTF-8"
+
+ 
+ ################### Logwatch 7.12 (01/22/25) #################### 
+        Processing Initiated: Wed May  6 18:34:46 2026
+        Date Range Processed: all
+        Detail Level of Output: 10
+        Type of Output/Format: mail / text
+        Logfiles for Host: a59441task4
+ ################################################################## 
+ 
+ --------------------- System Configuration Begin ------------------------ 
+
+    Machine: x86_64
+    Release: Linux 6.12.85+deb13-amd64
+ 
+    CPU Model(s):
+       CPU Model: AMD Ryzen 5 3600 6-Core Processor: 2 processors
+ 
+    MemTotal:        1982140 kB (1.89 GB)
+    MemFree:         1291536 kB (1.23 GB)
+    SwapTotal:       1127420 kB (1.08 GB)
+    SwapFree:        1127420 kB (1.08 GB)
+ 
+ ---------------------- System Configuration End ------------------------- 
+
+ 
+ --------------------- dpkg status changes Begin ------------------------ 
+
+ 
+ Installed:
+    adduser:all 3.152
+    amd64-microcode:amd64 3.20250311.1
+    apparmor:amd64 4.1.0-1
+    apt-listchanges:all 4.8
+    apt-utils:amd64 3.0.3
+    apt:amd64 3.0.3
+    base-files:amd64 13.8+deb13u4
+    base-passwd:amd64 3.6.7
+    bash-completion:all 1:2.16.0-7
+    bash:amd64 5.2.37-2+b8
+    bind9-dnsutils:amd64 1:9.20.21-1~deb13u1
+    bind9-host:amd64 1:9.20.21-1~deb13u1
+    bind9-libs:amd64 1:9.20.21-1~deb13u1
+    bsdextrautils:amd64 2.41-5
+    bsdutils:amd64 1:2.41-5
+    busybox:amd64 1:1.37.0-6+b7
+    bzip2:amd64 1.0.8-6
+    ca-certificates:all 20250419
+    console-setup-linux:all 1.242~deb13u1
+    console-setup:all 1.242~deb13u1
+    coreutils:amd64 9.7-3
+    cpio:amd64 2.15+dfsg-2
+    cron-daemon-common:all 3.0pl1-197
+    cron:amd64 3.0pl1-197
+    dash:amd64 0.5.12-12
+    dbus-bin:amd64 1.16.2-2
+    dbus-daemon:amd64 1.16.2-2
+    dbus-session-bus-common:all 1.16.2-2
+    dbus-system-bus-common:all 1.16.2-2
+    dbus-user-session:amd64 1.16.2-2
+    dbus:amd64 1.16.2-2
+    debconf-i18n:all 1.5.91
+    debconf:all 1.5.91
+    debian-archive-keyring:all 2025.1
+    debian-faq:all 12.2
+    debianutils:amd64 5.23.2
+    dhcpcd-base:amd64 1:10.1.0-11+deb13u2
+    dictionaries-common:all 1.30.10
+    diffutils:amd64 1:3.10-4
+    distro-info-data:all 0.66+deb13u1
+    dmidecode:amd64 3.6-2
+    dmsetup:amd64 2:1.02.205-2
+    doc-debian:all 11.3+nmu1
+    dracut-install:amd64 106-6
+    e2fsprogs:amd64 1.47.2-3+b10
+    eject:amd64 2.41-5
+    emacsen-common:all 3.0.8
+    ethtool:amd64 1:6.14.2-1
+    fdisk:amd64 2.41-5
+    file:amd64 1:5.46-5
+    findutils:amd64 4.10.0-3
+    fuse3:amd64 3.17.2-3
+    gcc-14-base:amd64 14.2.0-19
+    gettext-base:amd64 0.23.1-2
+    grep:amd64 3.11-4
+    groff-base:amd64 1.23.0-9
+    grub-common:amd64 2.12-9+deb13u1
+    grub-pc-bin:amd64 2.12-9+deb13u1
+    grub-pc:amd64 2.12-9+deb13u1
+    grub2-common:amd64 2.12-9+deb13u1
+    gsasl-common:all 2.2.2-1.1
+    guile-3.0-libs:amd64 3.0.10+really3.0.10-4
+    gzip:amd64 1.13-1
+    hostname:amd64 3.25
+    iamerican:all 3.4.06-1
+    ibritish:all 3.4.06-1
+    ienglish-common:all 3.4.06-1
+    ifupdown:amd64 0.8.44+deb13u1
+    inetutils-telnet:amd64 2:2.6-3+deb13u3
+    init-system-helpers:all 1.69~deb13u1
+    init:amd64 1.69~deb13u1
+    initramfs-tools-bin:amd64 0.148.3
+    initramfs-tools-core:all 0.148.3
+    initramfs-tools:all 0.148.3
+    installation-report:all 2.97
+    iproute2:amd64 6.15.0-1
+    iputils-ping:amd64 3:20240905-3
+    iso-codes:all 4.18.0-1
+    ispell:amd64 3.4.06-1
+    kbd:amd64 2.7.1-2
+    keyboard-configuration:all 1.242~deb13u1
+    klibc-utils:amd64 2.0.14-1
+    kmod:amd64 34.2-2
+    krb5-locales:all 1.21.3-5
+    laptop-detect:all 0.16+nmu1
+    less:amd64 668-1
+    libacl1:amd64 2.3.2-2+b1
+    libapparmor1:amd64 4.1.0-1
+    libapt-pkg7.0:amd64 3.0.3
+    libatomic1:amd64 14.2.0-19
+    libattr1:amd64 1:2.5.2-3
+    libaudit-common:all 1:4.0.2-2
+    libaudit1:amd64 1:4.0.2-2+b2
+    libblkid1:amd64 2.41-5
+    libbpf1:amd64 1:1.5.0-3
+    libbrotli1:amd64 1.1.0-2+b7
+    libbsd0:amd64 0.12.2-2
+    libbz2-1.0:amd64 1.0.8-6
+    libc-bin:amd64 2.41-12+deb13u2
+    libc-l10n:all 2.41-12+deb13u2
+    libc6:amd64 2.41-12+deb13u2
+    libcap-ng0:amd64 0.8.5-4+b1
+    libcap2-bin:amd64 1:2.75-10+b8
+    libcap2:amd64 1:2.75-10+b8
+    libcbor0.10:amd64 0.10.2-2
+    libclone-perl:amd64 0.47-1+b1
+    libcom-err2:amd64 1.47.2-3+b10
+    libcrypt1:amd64 1:4.4.38-1
+    libdate-manip-perl:all 6.98-1
+    libdb5.3t64:amd64 5.3.28+dfsg2-9
+    libdbus-1-3:amd64 1.16.2-2
+    libdebconfclient0:amd64 0.280
+    libdevmapper1.02.1:amd64 2:1.02.205-2
+    libdrm-common:all 2.4.124-2
+    libdrm2:amd64 2.4.124-2
+    libedit2:amd64 3.1-20250104-1
+    libefiboot1t64:amd64 38-3.1+b1
+    libefivar1t64:amd64 38-3.1+b1
+    libelf1t64:amd64 0.192-4
+    libencode-locale-perl:all 1.05-3
+    libexpat1:amd64 2.7.1-2
+    libext2fs2t64:amd64 1.47.2-3+b10
+    libfdisk1:amd64 2.41-5
+    libffi8:amd64 3.4.8-2
+    libfido2-1:amd64 1.15.0-1+b1
+    libfreetype6:amd64 2.13.3+dfsg-1+deb13u1
+    libfribidi0:amd64 1.0.16-1
+    libfstrm0:amd64 0.6.1-1+b3
+    libfuse3-4:amd64 3.17.2-3
+    libgc1:amd64 1:8.2.8-1
+    libgcc-s1:amd64 14.2.0-19
+    libgcrypt20:amd64 1.11.0-7
+    libgdbm-compat4t64:amd64 1.24-2
+    libgdbm6t64:amd64 1.24-2
+    libglib2.0-0t64:amd64 2.84.4-3~deb13u2
+    libglib2.0-data:all 2.84.4-3~deb13u2
+    libgmp10:amd64 2:6.3.0+dfsg-3
+    libgnutls30t64:amd64 3.8.9-3+deb13u2
+    libgpg-error-l10n:all 1.51-4
+    libgpg-error0:amd64 1.51-4
+    libgpm2:amd64 1.20.7-11+b2
+    libgsasl18:amd64 2.2.2-1.1
+    libgssapi-krb5-2:amd64 1.21.3-5
+    libgssglue1:amd64 0.9-1.1
+    libhogweed6t64:amd64 3.10.1-1
+    libhtml-parser-perl:amd64 3.83-1+b2
+    libhtml-tagset-perl:all 3.24-1
+    libhttp-date-perl:all 6.06-1
+    libhttp-message-perl:all 7.00-2
+    libidn12:amd64 1.43-1
+    libidn2-0:amd64 2.3.8-2
+    libio-compress-brotli-perl:amd64 0.004001-2+b3
+    libio-html-perl:all 1.004-3
+    libjansson4:amd64 2.14-2+b3
+    libjemalloc2:amd64 5.3.0-3
+    libjson-c5:amd64 0.18+ds-1
+    libk5crypto3:amd64 1.21.3-5
+    libkeyutils1:amd64 1.6.3-6
+    libklibc:amd64 2.0.14-1
+    libkmod2:amd64 34.2-2
+    libkrb5-3:amd64 1.21.3-5
+    libkrb5support0:amd64 1.21.3-5
+    liblastlog2-2:amd64 2.41-5
+    libldap-common:all 2.6.10+dfsg-1
+    libldap2:amd64 2.6.10+dfsg-1
+    liblmdb0:amd64 0.9.31-1+b2
+    liblocale-gettext-perl:amd64 1.07-7+b1
+    liblockfile-bin:amd64 1.17-2
+    liblsof0:amd64 4.99.4+dfsg-2
+    libltdl7:amd64 2.5.4-4
+    liblwp-mediatypes-perl:all 6.04-2
+    liblz4-1:amd64 1.10.0-4
+    liblzma5:amd64 5.8.1-1
+    libmagic-mgc:amd64 1:5.46-5
+    libmagic1t64:amd64 1:5.46-5
+    libmailutils9t64:amd64 1:3.19-1
+    libmariadb3:amd64 1:11.8.6-0+deb13u1
+    libmaxminddb0:amd64 1.12.2-1
+    libmd0:amd64 1.1.0-2+b1
+    libmnl0:amd64 1.0.5-3
+    libmount1:amd64 2.41-5
+    libmspack0t64:amd64 0.11-1.1+b1
+    libncurses6:amd64 6.5+20250216-2
+    libncursesw6:amd64 6.5+20250216-2
+    libnettle8t64:amd64 3.10.1-1
+    libnewt0.52:amd64 0.52.25-1
+    libnftables1:amd64 1.1.3-1
+    libnftnl11:amd64 1.2.9-1
+    libnghttp2-14:amd64 1.64.0-1.1
+    libnss-systemd:amd64 257.9-1~deb13u1
+    libntlm0:amd64 1.8-4
+    libp11-kit0:amd64 0.25.5-3
+    libpam-modules-bin:amd64 1.7.0-5
+    libpam-modules:amd64 1.7.0-5
+    libpam-runtime:all 1.7.0-5
+    libpam-systemd:amd64 257.9-1~deb13u1
+    libpam-wtmpdb:amd64 0.73.0-3+deb13u1
+    libpam0g:amd64 1.7.0-5
+    libpci3:amd64 1:3.13.0-2
+    libpcre2-8-0:amd64 10.46-1~deb13u1
+    libperl5.40:amd64 5.40.1-6
+    libpipeline1:amd64 1.5.8-1
+    libpng16-16t64:amd64 1.6.48-1+deb13u4
+    libpopt0:amd64 1.19+dfsg-2
+    libpq5:amd64 17.9-0+deb13u1
+    libproc2-0:amd64 2:4.0.4-9
+    libprotobuf-c1:amd64 1.5.1-1
+    libpsl5t64:amd64 0.21.2-1.1+b1
+    libpython3-stdlib:amd64 3.13.5-1
+    libpython3.13-minimal:amd64 3.13.5-2
+    libpython3.13-stdlib:amd64 3.13.5-2
+    libpython3.13:amd64 3.13.5-2
+    libreadline8t64:amd64 8.2-6
+    libsasl2-2:amd64 2.1.28+dfsg1-9
+    libsasl2-modules-db:amd64 2.1.28+dfsg1-9
+    libsasl2-modules:amd64 2.1.28+dfsg1-9
+    libseccomp2:amd64 2.6.0-2
+    libsecret-1-0:amd64 0.21.7-1
+    libsecret-common:all 0.21.7-1
+    libsecret-tools:amd64 0.21.7-1
+    libselinux1:amd64 3.8.1-1
+    libsemanage-common:all 3.8.1-1
+    libsemanage2:amd64 3.8.1-1
+    libsepol2:amd64 3.8.1-1
+    libslang2:amd64 2.3.3-5+b2
+    libsmartcols1:amd64 2.41-5
+    libsqlite3-0:amd64 3.46.1-7+deb13u1
+    libss2:amd64 1.47.2-3+b10
+    libssl3t64:amd64 3.5.5-1~deb13u1
+    libstdc++6:amd64 14.2.0-19
+    libsystemd-shared:amd64 257.9-1~deb13u1
+    libsystemd0:amd64 257.9-1~deb13u1
+    libtasn1-6:amd64 4.20.0-2
+    libtext-charwidth-perl:amd64 0.04-11+b4
+    libtext-iconv-perl:amd64 1.7-8+b4
+    libtext-wrapi18n-perl:all 0.06-10
+    libtimedate-perl:all 2.3300-2
+    libtinfo6:amd64 6.5+20250216-2
+    libtirpc-common:all 1.3.6+ds-1
+    libtirpc3t64:amd64 1.3.6+ds-1
+    libuchardet0:amd64 0.0.8-1+b2
+    libudev1:amd64 257.9-1~deb13u1
+    libunistring5:amd64 1.3-2
+    liburcu8t64:amd64 0.15.2-2
+    liburi-perl:all 5.30-1
+    libusb-1.0-0:amd64 2:1.0.28-1
+    libuuid1:amd64 2.41-5
+    libuv1t64:amd64 1.50.0-2
+    libwrap0:amd64 7.6.q-36
+    libwtmpdb0:amd64 0.73.0-3+deb13u1
+    libx11-6:amd64 2:1.8.12-1
+    libx11-data:all 2:1.8.12-1
+    libxau6:amd64 1:1.0.11-1
+    libxcb1:amd64 1.17.0-2+b1
+    libxdmcp6:amd64 1:1.1.5-1
+    libxext6:amd64 2:1.3.4-1+b3
+    libxml2:amd64 2.12.7+dfsg+really2.9.14-2.1+deb13u2
+    libxmlsec1t64-openssl:amd64 1.2.41-1+b1
+    libxmlsec1t64:amd64 1.2.41-1+b1
+    libxmuu1:amd64 2:1.1.3-3+b4
+    libxslt1.1:amd64 1.1.35-1.2+deb13u2
+    libxtables12:amd64 1.8.11-2
+    libxxhash0:amd64 0.8.3-2
+    libzstd1:amd64 1.5.7+dfsg-1
+    linux-base:all 4.12.1
+    linux-image-6.12.73+deb13-amd64:amd64 6.12.73-1
+    linux-image-6.12.85+deb13-amd64:amd64 6.12.85-1
+    linux-image-amd64:amd64 6.12.73-1
+    linux-sysctl-defaults:all 4.12.1
+    locales:all 2.41-12+deb13u2
+    login.defs:all 1:4.17.4-2
+    login:amd64 1:4.16.0-2+really2.41-5
+    logrotate:amd64 3.22.0-1
+    logsave:amd64 1.47.2-3+b10
+    logwatch:all 7.12-3
+    lsb-release:all 12.1-1
+    lsof:amd64 4.99.4+dfsg-2
+    mailutils-common:all 1:3.19-1
+    mailutils:amd64 1:3.19-1
+    man-db:amd64 2.13.1-1
+    manpages:all 6.9.1-1
+    mariadb-common:all 1:11.8.6-0+deb13u1
+    mawk:amd64 1.3.4.20250131-1
+    media-types:all 13.0.0
+    mount:amd64 2.41-5
+    msmtp-mta:amd64 1.8.28-3
+    msmtp:amd64 1.8.28-3
+    mysql-common:all 5.8+1.1.1
+    nano:amd64 8.4-1
+    ncurses-base:all 6.5+20250216-2
+    ncurses-bin:amd64 6.5+20250216-2
+    ncurses-term:all 6.5+20250216-2
+    netbase:all 6.5
+    netcat-traditional:amd64 1.10-50
+    nftables:amd64 1.1.3-1
+    open-vm-tools:amd64 2:12.5.0-2+deb13u1
+    openssh-client:amd64 1:10.0p1-7+deb13u2
+    openssh-server:amd64 1:10.0p1-7+deb13u2
+    openssh-sftp-server:amd64 1:10.0p1-7+deb13u2
+    openssl-provider-legacy:amd64 3.5.5-1~deb13u1
+    openssl:amd64 3.5.5-1~deb13u2
+    os-prober:amd64 1.83
+    passwd:amd64 1:4.17.4-2
+    pci.ids:all 0.0~2025.06.09-1
+    pciutils:amd64 1:3.13.0-2
+    perl-base:amd64 5.40.1-6
+    perl-modules-5.40:all 5.40.1-6
+    perl:amd64 5.40.1-6
+    popularity-contest:all 1.78
+    procps:amd64 2:4.0.4-9
+    publicsuffix:all 20250328.1952-0.1
+    python-apt-common:all 3.0.0
+    python3-apt:amd64 3.0.0
+    python3-certifi:all 2025.1.31+ds-1
+    python3-chardet:all 5.2.0+dfsg-2
+    python3-charset-normalizer:amd64 3.4.2-1
+    python3-debconf:all 1.5.91
+    python3-debian:all 1.0.1
+    python3-debianbts:all 4.1.1
+    python3-idna:all 3.10-1
+    python3-minimal:amd64 3.13.5-1
+    python3-reportbug:all 13.2.0
+    python3-requests:all 2.32.3+dfsg-5+deb13u1
+    python3-urllib3:all 2.3.0-3+deb13u1
+    python3.13-minimal:amd64 3.13.5-2
+    python3.13:amd64 3.13.5-2
+    python3:amd64 3.13.5-1
+    readline-common:all 8.2-6
+    reportbug:all 13.2.0
+    runit-helper:all 2.16.4
+    sed:amd64 4.9-2
+    sensible-utils:all 0.0.25
+    shared-mime-info:amd64 2.4-5+b2
+    sqv:amd64 1.3.0-3+b2
+    systemd-sysv:amd64 257.9-1~deb13u1
+    systemd-timesyncd:amd64 257.9-1~deb13u1
+    systemd:amd64 257.9-1~deb13u1
+    sysvinit-utils:amd64 3.14-4
+    tar:amd64 1.35+dfsg-3.1
+    task-english:all 3.81
+    tasksel-data:all 3.81
+    tasksel:all 3.81
+    traceroute:amd64 1:2.1.6-1
+    tzdata:all 2026a-0+deb13u1
+    ucf:all 3.0052
+    udev:amd64 257.9-1~deb13u1
+    usbutils:amd64 1:018-2
+    util-linux-extra:amd64 2.41-5
+    util-linux-locales:all 2.41-5
+    util-linux:amd64 2.41-5
+    vim-common:all 2:9.1.1230-2
+    vim-tiny:amd64 2:9.1.1230-2
+    wamerican:all 2020.12.07-4
+    wget:amd64 1.25.0-2
+    whiptail:amd64 0.52.25-1
+    wtmpdb:amd64 0.73.0-3+deb13u1
+    xauth:amd64 1:1.1.2-1.1
+    xdg-user-dirs:amd64 0.18-2
+    xkb-data:all 2.42-1
+    xz-utils:amd64 5.8.1-1
+    zerofree:amd64 1.1.1-1+b1
+    zlib1g:amd64 1:1.3.dfsg+really1.3.1-1+b1
+    zstd:amd64 1.5.7+dfsg-1
+ 
+ Reinstalled:
+    base-files:amd64 13.8+deb13u4
+    base-passwd:amd64 3.6.7
+    debconf:all 1.5.91
+    dpkg 1.22.22
+    dpkg:amd64 1.22.22
+    libc6:amd64 2.41-12+deb13u2
+    mawk:amd64 1.3.4.20250131-1
+    perl-base:amd64 5.40.1-6
+ 
+ Upgraded:
+    libssl3t64:amd64 3.5.5-1~deb13u1 => 3.5.5-1~deb13u2
+    linux-image-amd64:amd64 6.12.73-1 => 6.12.85-1
+    openssl-provider-legacy:amd64 3.5.5-1~deb13u1 => 3.5.5-1~deb13u2
+ 
+ Removed:
+    popularity-contest:all 1.78
+ 
+ Purged:
+    popularity-contest:all 1.78
+ 
+ ---------------------- dpkg status changes End ------------------------- 
+
+ 
+ --------------------- Disk Space Begin ------------------------ 
+
+ Filesystem      Size  Used Avail Use% Mounted on
+ /dev/sda1        19G  1.3G   17G   7% /
+ 
+ 
+ ---------------------- Disk Space End ------------------------- 
+
+ 
+ --------------------- Network Report Begin ------------------------ 
+
+ 
+ 
+ ------------- Network statistics ---------------
+ 
+ 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+     inet 127.0.0.1/8 scope host lo
+        valid_lft forever preferred_lft forever
+     inet6 ::1/128 scope host noprefixroute 
+        valid_lft forever preferred_lft forever
+     RX:  bytes packets errors dropped  missed   mcast           
+          6.48k      80      0       0       0       0 
+     TX:  bytes packets errors dropped carrier collsns           
+          6.48k      80      0       0       0       0 
+ 2: ens33: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+     link/ether 00:0c:29:87:27:22 brd ff:ff:ff:ff:ff:ff
+     altname enp2s1
+     altname enx000c29872722
+     inet 192.168.40.144/24 brd 192.168.40.255 scope global dynamic noprefixroute ens33
+        valid_lft 1344sec preferred_lft 1119sec
+     inet6 fe80::6dc5:9284:e611:9a48/64 scope link 
+        valid_lft forever preferred_lft forever
+     RX:  bytes packets errors dropped  missed   mcast           
+          18.5M   22.2k      0       0       0       0 
+     TX:  bytes packets errors dropped carrier collsns           
+          1.37M   14.8k      0       0       0       0 
+ 
+ 
+ ------------- Network statistics ---------------
+ 
+ 
+ 
+ 
+ ------------- Listening sockets ---------------
+ 
+ can't run netstat: No such file or directory at /usr/share/logwatch/scripts/services/zz-network line 179.
+ 
+ ---------------------- Network Report End ------------------------- 
+
+ 
+ ###################### Logwatch End ######################### 
+
